@@ -44,9 +44,6 @@ Plataforma educacional sobre diversidade abrangendo temas como idade, raça, cul
 - JS
 - Node
 - ReactJS
-- React Bootstrap
-- Chakra UI
-- MUI
 - Git e Github
 
 ## 💙 Colaboradoras
