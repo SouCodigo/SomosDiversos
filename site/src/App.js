@@ -1,11 +1,11 @@
 import './App.css';
-
-import IndexHeader from './components/body/header/IndexHeader';
+import Header from './components/header/Header'
 
 function App() {
   return (
-<IndexHeader></IndexHeader>
+        <Header></Header>
   );
 }
 
 export default App;
+

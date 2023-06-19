@@ -19,6 +19,20 @@ Plataforma educacional sobre diversidade abrangendo temas como idade, raça, cul
 
 > yarn install
 
+Caso queira instalar a versão mais recente
+
+> npm install -g npm
+
+- Instale as bibliotecas
+
+> npm install react-bootstrap
+
+> npm i bootstrap@5.3.0
+
+> npm install react-slick slick-carousel
+
+Caso dê algum erro, usar " --force" após o comando
+
 - Execute o projeto
 
 > npm start
