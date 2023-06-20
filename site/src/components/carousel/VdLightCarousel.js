@@ -4,7 +4,9 @@ import imgCarousel from "../../img/imgTemporaria.svg";
 function VdLightCarousel() {
   return (
     <div>
+    <span></span>
     <h5 class="text-center">Assista esses curtas sobre Diversidade</h5>
+    <span></span>
     <Carousel variant="light">
       <Carousel.Item>
       <iframe
