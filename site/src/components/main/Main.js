@@ -3,6 +3,9 @@ import React from 'react';
 function Main() {
   return (
     <main>
+      <div class="text-center">
+      <h6 className="bg-warning border">Site em construção</h6>
+      </div>
       <h1 class="text-center">SomosDiversos</h1>
       <h2 class="text-center">Bem-vindo à nossa Plataforma Educacional sobre Diversidade!</h2>
       <h3 class="text-center">

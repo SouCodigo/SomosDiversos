@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
 import imgCarousel from "../../img/imgTemporaria.svg";
 
-function LightCarousel() {
+function ImgLightCarousel() {
   return (
     <Carousel variant="light">
       <Carousel.Item>
@@ -43,4 +43,4 @@ function LightCarousel() {
   );
 }
 
-export default LightCarousel;
+export default ImgLightCarousel;
