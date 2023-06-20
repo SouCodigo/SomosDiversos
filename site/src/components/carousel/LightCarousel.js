@@ -1,13 +1,13 @@
 import Carousel from 'react-bootstrap/Carousel';
-import imgTemporaria from "../../img/imgTemporaria.svg";
+import imgCarousel from "../../img/imgTemporaria.svg";
 
-function DarkVariantExample() {
+function LightCarousel() {
   return (
-    <Carousel variant="dark">
+    <Carousel variant="light">
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={imgTemporaria}
+          src={imgCarousel}
           alt="Imagem1"
         />
         <Carousel.Caption>
@@ -18,7 +18,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={imgTemporaria}
+          src={imgCarousel}
           alt="Imagem2"
         />
         <Carousel.Caption>
@@ -29,7 +29,7 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={imgTemporaria}
+          src={imgCarousel}
           alt="Imagem3"
         />
         <Carousel.Caption>
@@ -43,4 +43,4 @@ function DarkVariantExample() {
   );
 }
 
-export default DarkVariantExample;
+export default LightCarousel;
