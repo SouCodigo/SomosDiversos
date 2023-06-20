@@ -1,4 +1,5 @@
 import Carousel from 'react-bootstrap/Carousel';
+import imgTemporaria from "../../img/imgTemporaria.svg";
 
 function DarkVariantExample() {
   return (
@@ -6,35 +7,35 @@ function DarkVariantExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./img/imgCarousel1.jpg"
-          alt="First slide"
+          src={imgTemporaria}
+          alt="Imagem1"
         />
         <Carousel.Caption>
-          <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h5>Imagem1</h5>
+          <p>Descrição da Imagem1</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./img/imgCarousel1.jpg"
-          alt="Second slide"
+          src={imgTemporaria}
+          alt="Imagem2"
         />
         <Carousel.Caption>
-          <h5>Second slide label</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h5>Imagem2</h5>
+          <p>Descrição da Imagem2</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./img/imgCarousel1.jpg"
-          alt="Third slide"
+          src={imgTemporaria}
+          alt="Imagem3"
         />
         <Carousel.Caption>
-          <h5>Third slide label</h5>
+          <h5>Imagem3</h5>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            Descrição da Imagem3
           </p>
         </Carousel.Caption>
       </Carousel.Item>

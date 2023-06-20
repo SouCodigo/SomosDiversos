@@ -4,6 +4,7 @@ function Main() {
   return (
     <main>
       <h1 class="text-center">SomosDiversos</h1>
+      <h2 class="text-center">Bem-vindo à nossa Plataforma Educacional sobre Diversidade!</h2>
       <h3 class="text-center">
         SomosDiversos é um lugar onde você pode encontrar temas sobre diversidade,
         desde temas como idade, raça, cultura até acessibilidade, orientação sexual,
