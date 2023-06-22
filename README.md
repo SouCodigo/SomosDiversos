@@ -58,6 +58,8 @@ Caso dê algum erro, usar " --force" após o comando
 - JS
 - Node
 - ReactJS
+- React Bootstrap
+- Bootstrap
 - Git e Github
 
 ## 💙 Colaboradoras
